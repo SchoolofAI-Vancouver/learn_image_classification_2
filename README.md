@@ -2,7 +2,7 @@
 
 **organised by [Vancouver School of AI](https://www.facebook.com/groups/991378534367193/)**
 
-**Date: 11 September 2018**
+**Date: 25 September 2018**
 
 ![](additional/img/mnist.png)
 
@@ -28,3 +28,10 @@ We have decided to move to [Google Colab](https://colab.research.google.com/note
 
 [Keras CNN Data Augmentation](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
+[Machine Learning Crash Course: Part 3 from ML@B](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
+
+[Neural network visualization by TensorFlow](http://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,5,2&seed=0.16034&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
+[cs231n-neural network](http://cs231n.github.io/neural-networks-1/)
+
+[cs231n- convolutioinal neural network](http://cs231n.github.io/convolutional-networks/#fc)
