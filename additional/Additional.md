@@ -9,7 +9,7 @@
 * Also called the down-sampling layer.
 * Reducing dimensionality and allowing for assumptions to be made about features
 
-![](img/maxpool.png)
+![](img/maxpool.jpg)
 
 
 ## ReLU
