@@ -12,6 +12,14 @@ Source: http://scs.ryerson.ca/~aharley/vis/conv/
 
 We have decided to move to [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). This means you only need a Google account and you're good to go. Google Colab is especially useful for image classification, since you can use a GPU for free on Google Colab to speed up the training process. See [here](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html) on how to enable a GPU in Google Colab - it's really simple.
 
+## Meetup Content
+
+[Guru Shiva Winning Code Challenge Submission Presentation](https://prezi.com/view/F7UNomtK3QU3Zbzh8nVH/)
+
+[Image Classification Theory](https://github.com/SchoolofAI-Vancouver/learn_image_classification_2/blob/master/src/workshop-slides.ipynb)
+
+[Image Classification Workshop using Keras](https://github.com/SchoolofAI-Vancouver/learn_image_classification_2/blob/master/keras_colab_demo/Image_Classification_II_Demo.ipynb) - open in Google Colab
+
 ## Content Authors
 
 [Akshi Chaudhary](https://github.com/akshi8)
