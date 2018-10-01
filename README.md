@@ -20,6 +20,21 @@ We have decided to move to [Google Colab](https://colab.research.google.com/note
 
 [Image Classification Workshop using Keras](https://github.com/SchoolofAI-Vancouver/learn_image_classification_2/blob/master/keras_colab_demo/Image_Classification_II_Demo.ipynb) - open in Google Colab
 
+## Code Challenge
+
+**Due Date:** Sunday, 7 October @ midnight
+
+**Challenge:** Create an image classifier using Keras
+
+**Everyone is encouraged to participate!**
+
+The winning solution should ideally be:
+
+* reasonably accurate
+* a creative or interesting application
+
+To submit, post your solution's repository link on the `# coding_challenge` Slack channel (on the Vancouver School of AI workspace) before the due date.
+
 ## Content Authors
 
 [Akshi Chaudhary](https://github.com/akshi8)
